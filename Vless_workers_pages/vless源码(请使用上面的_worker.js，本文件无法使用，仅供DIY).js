@@ -10,21 +10,21 @@ const proxyIPs = ["ts.hpc.tw"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.
 const cn_hostnames = [''];
 let CDNIP = 'www.visa.com.sg'
 // http_ip
-let IP1 = 'www.visa.com'
-let IP2 = 'cis.visa.com'
-let IP3 = 'africa.visa.com'
-let IP4 = 'www.visa.com.sg'
-let IP5 = 'www.visaeurope.at'
-let IP6 = 'www.visa.com.mt'
-let IP7 = 'qa.visamiddleeast.com'
+let IP1 = 'a.yzh1225.us.kg'
+let IP2 = 'b.yzh1225.us.kg'
+let IP3 = 'c.yzh1225.us.kg'
+let IP4 = 'd.yzh1225.us.kg'
+let IP5 = 'e.yzh1225.us.kg'
+let IP6 = 'f.yzh1225.us.kg'
+let IP7 = 'g.yzh1225.us.kg'
 
 // https_ip
-let IP8 = 'usa.visa.com'
-let IP9 = 'myanmar.visa.com'
-let IP10 = 'www.visa.com.tw'
-let IP11 = 'www.visaeurope.ch'
-let IP12 = 'www.visa.com.br'
-let IP13 = 'www.visasoutheasteurope.com'
+let IP8 = 'h.yzh1225.us.kg'
+let IP9 = 'i.yzh1225.us.kg'
+let IP10 = 'm.yzh1225.us.kg'
+let IP11 = 'x.yzh1225.us.kg'
+let IP12 = 'y.yzh1225.us.kg'
+let IP13 = 'z.yzh1225.us.kg'
 
 // http_port
 let PT1 = '80'
