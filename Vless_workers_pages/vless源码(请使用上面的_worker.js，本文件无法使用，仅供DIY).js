@@ -21,10 +21,10 @@ let IP7 = 'g.yzh1225.us.kg'
 // https_ip
 let IP8 = 'h.yzh1225.us.kg'
 let IP9 = 'i.yzh1225.us.kg'
-let IP10 = 'm.yzh1225.us.kg'
-let IP11 = 'x.yzh1225.us.kg'
-let IP12 = 'y.yzh1225.us.kg'
-let IP13 = 'z.yzh1225.us.kg'
+let IP10 = 'j.yzh1225.us.kg'
+let IP11 = 'k.yzh1225.us.kg'
+let IP12 = 'l.yzh1225.us.kg'
+let IP13 = 'm.yzh1225.us.kg'
 
 // http_port
 let PT1 = '80'
